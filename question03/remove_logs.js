@@ -15,7 +15,7 @@ const path = require('path');
 
   try {
     console.log('--------------------------- Question 3 - Remove Logs -----------------------------');
-    console.log('Remove Log files (remove)'); 
+    console.log('Remove Log files '); 
     console.log(' ');
 
 
